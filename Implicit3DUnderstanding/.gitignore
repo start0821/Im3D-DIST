@@ -192,7 +192,7 @@ octave-workspace
 /data
 /wandb
 /visualization
-/demo
+/demo/outputs
 
 ## pretrained models
 pretrained_model
